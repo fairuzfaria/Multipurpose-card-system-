@@ -7,7 +7,7 @@ package genetic.algorithm;
 
 /**
  *
- * @author Anika
+ * @author Proyti
  */
 import java.util.Scanner;
 public class GeneticAlgorithm {
