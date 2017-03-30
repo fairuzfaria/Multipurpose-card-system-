@@ -1,0 +1,4 @@
+The ways we will be conductiong tests
+
+* Black box:
+* White box: 
